@@ -9,6 +9,7 @@ By leveraging **Python for data processing and SQL for analytical queries**, thi
 2️⃣ **Data Cleaning & Processing:** Processed the data using Python (Pandas).  
 3️⃣ **Data Storage:** Loaded the cleaned data into SQL Server.  
 4️⃣ **Data Analysis:** Executed SQL queries to generate business insights.  
+<img width="265" alt="image" src="https://github.com/user-attachments/assets/5c242c9e-0dad-4001-b788-506d99252856" />
 
 ## **🛠️ Tech Stack**
 - **Python**: Data extraction, preprocessing, and transformation  
